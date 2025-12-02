@@ -44,9 +44,137 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u859B\u4F96"
+      - 
+      - "\u54C0"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - A-b.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u7121\u8868\u60C5"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - A-n.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - "\u6A02"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - A-hp.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u590F\u9716"
+      - 
+      - "\u54C0"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - B-b.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u6A02"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - B-hp.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - 
+      - 
+      - "\u7121\u8868\u60C5"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - B-n.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - "\u559C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - B-h.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u6C5F\u66DC"
+      - 
+      - "\u7121\u8868\u60C5"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - C-n.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71302503/Scenarios/71302503.xls:Character
     type: 1
-    textLength: 166
+    textLength: 260
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: f042df435bf5f1a49950a8ff88eb7532, type: 3}
   - rows:
