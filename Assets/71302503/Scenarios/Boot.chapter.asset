@@ -102,7 +102,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .7
+      - .72
       - 
       - B-b.png
       isEmpty: 0
@@ -118,7 +118,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .7
+      - .72
       - 
       - B-hp.png
       isEmpty: 0
@@ -134,7 +134,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .7
+      - .72
       - 
       - B-n.png
       isEmpty: 0
@@ -150,7 +150,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .7
+      - .72
       - 
       - B-h.png
       isEmpty: 0
@@ -166,7 +166,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .7
+      - .72
       - 
       - C-n.png
       isEmpty: 0
@@ -174,7 +174,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/71302503/Scenarios/71302503.xls:Character
     type: 1
-    textLength: 260
+    textLength: 265
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: f042df435bf5f1a49950a8ff88eb7532, type: 3}
   - rows:
@@ -200,9 +200,69 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u7DF4\u7FD2\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 1.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u9304\u97F3\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 2.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u4F11\u606F\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u821E\u53F0"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 4.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71302503/Scenarios/71302503.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 151
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: f042df435bf5f1a49950a8ff88eb7532, type: 3}
   - rows:
@@ -243,9 +303,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D\u9593"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6\u908A"
+      - Character
+      - -350
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3\u908A"
+      - Character
+      - 380
+      - 0
+      - 120
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71302503/Scenarios/71302503.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 162
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: f042df435bf5f1a49950a8ff88eb7532, type: 3}
   - rows:
