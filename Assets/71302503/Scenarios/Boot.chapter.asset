@@ -54,7 +54,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .7
+      - .52
       - 
       - A-b.png
       isEmpty: 0
@@ -70,7 +70,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .7
+      - .52
       - 
       - A-n.png
       isEmpty: 0
@@ -86,7 +86,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .7
+      - .52
       - 
       - A-hp.png
       isEmpty: 0
@@ -95,16 +95,16 @@ MonoBehaviour:
     - rowIndex: 4
       debugIndex: 4
       strings:
-      - "\u590F\u9716"
-      - 
-      - "\u54C0"
       - 
       - 
+      - "\u54C0(\u821E\u53F0)"
       - 
       - 
-      - .72
       - 
-      - B-b.png
+      - 
+      - .52
+      - 
+      - AF-b
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -113,30 +113,30 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - "\u6A02"
+      - "\u6A02(\u821E\u53F0)"
       - 
       - 
       - 
       - 
-      - .72
+      - .52
       - 
-      - B-hp.png
+      - AF-hp
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 6
       debugIndex: 6
       strings:
+      - "\u590F\u9716"
+      - 
+      - "\u54C0"
       - 
       - 
-      - "\u7121\u8868\u60C5"
       - 
       - 
+      - .73
       - 
-      - 
-      - .72
-      - 
-      - B-n.png
+      - B-b.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -145,19 +145,51 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - "\u559C"
+      - "\u6A02"
       - 
       - 
       - 
       - 
-      - .72
+      - .73
       - 
-      - B-h.png
+      - B-hp.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 8
       debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u7121\u8868\u60C5"
+      - 
+      - 
+      - 
+      - 
+      - .73
+      - 
+      - B-n.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - "\u559C"
+      - 
+      - 
+      - 
+      - 
+      - .73
+      - 
+      - B-h.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
       strings:
       - "\u6C5F\u66DC"
       - 
@@ -166,7 +198,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .72
+      - .73
       - 
       - C-n.png
       isEmpty: 0
@@ -174,7 +206,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/71302503/Scenarios/71302503.xls:Character
     type: 1
-    textLength: 265
+    textLength: 293
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: f042df435bf5f1a49950a8ff88eb7532, type: 3}
   - rows:
@@ -332,7 +364,7 @@ MonoBehaviour:
       - Character
       - 380
       - 0
-      - 120
+      - 200
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -505,9 +537,79 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u7DF4\u7FD2\u5BA4\u80CC\u666F\u97F3\u6A02"
+      - 
+      - Bgm
+      - BGM1.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u9304\u97F3\u5BA4\u80CC\u666F\u97F3\u6A02"
+      - 
+      - Bgm
+      - BGM2.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u4F11\u606F\u5BA4\u80CC\u666F\u97F3\u6A02"
+      - 
+      - Bgm
+      - BGM3.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u821E\u53F0\u524D\u80CC\u666F\u97F3\u6A02"
+      - 
+      - Bgm
+      - BGM4.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u8868\u6F14\u6642\u80CC\u666F\u97F3\u6A02"
+      - 
+      - Bgm
+      - BGM5.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u597D\u7D50\u5C40\u80CC\u666F\u97F3\u6A02"
+      - 
+      - Bgm
+      - BGM6.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u58DE\u7D50\u5C40\u80CC\u666F\u97F3\u6A02"
+      - 
+      - Bgm
+      - BGM7.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/71302503/Scenarios/71302503.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 163
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: f042df435bf5f1a49950a8ff88eb7532, type: 3}
   - rows:
