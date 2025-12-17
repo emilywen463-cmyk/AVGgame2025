@@ -54,7 +54,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .52
+      - .75
       - 
       - A-b.png
       isEmpty: 0
@@ -70,7 +70,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .52
+      - .71
       - 
       - A-n.png
       isEmpty: 0
@@ -86,7 +86,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .52
+      - .72
       - 
       - A-hp.png
       isEmpty: 0
@@ -102,7 +102,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .52
+      - .71
       - 
       - AF-b
       isEmpty: 0
@@ -118,7 +118,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .52
+      - .71
       - 
       - AF-hp
       isEmpty: 0
@@ -134,7 +134,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .73
+      - .8
       - 
       - B-b.png
       isEmpty: 0
@@ -150,7 +150,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .73
+      - .81
       - 
       - B-hp.png
       isEmpty: 0
@@ -166,7 +166,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .73
+      - .79
       - 
       - B-n.png
       isEmpty: 0
@@ -182,7 +182,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .73
+      - .78
       - 
       - B-h.png
       isEmpty: 0
@@ -198,7 +198,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .73
+      - .81
       - 
       - C-n.png
       isEmpty: 0
@@ -206,7 +206,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/71302503/Scenarios/71302503.xls:Character
     type: 1
-    textLength: 293
+    textLength: 292
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: f042df435bf5f1a49950a8ff88eb7532, type: 3}
   - rows:
