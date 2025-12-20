@@ -54,7 +54,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .75
+      - .65
       - 
       - A-b.png
       isEmpty: 0
@@ -70,7 +70,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .71
+      - .65
       - 
       - A-n.png
       isEmpty: 0
@@ -86,7 +86,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .72
+      - .65
       - 
       - A-hp.png
       isEmpty: 0
@@ -102,9 +102,9 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .71
+      - .65
       - 
-      - AF-b
+      - AF-b.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -118,14 +118,30 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .71
+      - .65
       - 
-      - AF-hp
+      - AF-hp.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 6
       debugIndex: 6
+      strings:
+      - 
+      - 
+      - "\u559C(\u821E\u53F0)"
+      - 
+      - 
+      - 
+      - 
+      - .65
+      - 
+      - AF-h.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
       strings:
       - "\u590F\u9716"
       - 
@@ -134,25 +150,9 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .8
+      - .65
       - 
       - B-b.png
-      isEmpty: 0
-      isCommentOut: 0
-      debugInfo: 
-    - rowIndex: 7
-      debugIndex: 7
-      strings:
-      - 
-      - 
-      - "\u6A02"
-      - 
-      - 
-      - 
-      - 
-      - .81
-      - 
-      - B-hp.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -161,14 +161,14 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - "\u7121\u8868\u60C5"
+      - "\u6A02"
       - 
       - 
       - 
       - 
-      - .79
+      - .65
       - 
-      - B-n.png
+      - B-hp.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -177,19 +177,67 @@ MonoBehaviour:
       strings:
       - 
       - 
-      - "\u559C"
+      - "\u7121\u8868\u60C5"
       - 
       - 
       - 
       - 
-      - .78
+      - .65
       - 
-      - B-h.png
+      - B-n.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 10
       debugIndex: 10
+      strings:
+      - 
+      - 
+      - "\u559C"
+      - 
+      - 
+      - 
+      - 
+      - .65
+      - 
+      - B-h.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - 
+      - 
+      - "\u54C0(\u821E\u53F0)"
+      - 
+      - 
+      - 
+      - 
+      - .65
+      - 
+      - BF-b.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - 
+      - 
+      - "\u559C(\u821E\u53F0)"
+      - 
+      - 
+      - 
+      - 
+      - .65
+      - 
+      - BF-h.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
       strings:
       - "\u6C5F\u66DC"
       - 
@@ -206,7 +254,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/71302503/Scenarios/71302503.xls:Character
     type: 1
-    textLength: 292
+    textLength: 349
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: f042df435bf5f1a49950a8ff88eb7532, type: 3}
   - rows:
