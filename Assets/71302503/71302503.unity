@@ -5618,9 +5618,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.09283789
+    x: 0.00015056068
     y: 0
-    width: 0.8143242
+    width: 0.9996989
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -15908,7 +15908,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1bcf766bd0e50e04991b8be25ecd5488, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fae51f7006d8b6d43b9b221171f95916, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -21702,7 +21702,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1bcf766bd0e50e04991b8be25ecd5488, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fae51f7006d8b6d43b9b221171f95916, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -27864,9 +27864,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.09283789
+    x: 0.00015056068
     y: 0
-    width: 0.8143242
+    width: 0.9996989
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -29307,7 +29307,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1bcf766bd0e50e04991b8be25ecd5488, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fae51f7006d8b6d43b9b221171f95916, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -30573,7 +30573,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 64341b418522b2d4aa53aa030d080cb1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c983621ebf0397246855f076723995df, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -30813,7 +30813,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1bcf766bd0e50e04991b8be25ecd5488, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fae51f7006d8b6d43b9b221171f95916, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -31513,6 +31513,18 @@ PrefabInstance:
     - target: {fileID: 22400002, guid: 44c9aa1384918304ab38fa2a997f3ae8, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 396118487828316048, guid: 44c9aa1384918304ab38fa2a997f3ae8, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.21960786
+      objectReference: {fileID: 0}
+    - target: {fileID: 396118487828316048, guid: 44c9aa1384918304ab38fa2a997f3ae8, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.21960786
+      objectReference: {fileID: 0}
+    - target: {fileID: 396118487828316048, guid: 44c9aa1384918304ab38fa2a997f3ae8, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.21960786
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
