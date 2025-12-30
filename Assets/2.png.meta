@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fae51f7006d8b6d43b9b221171f95916
+guid: 4f4ff370ea5b1fe4b9e763ae8aee2dd3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,112 +121,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: options2_1
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 382
-        width: 1059
-        height: 277
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f42bda9b00fd2b244aef014bea99fb12
-      internalID: -1124051319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: options2_2
-      rect:
-        serializedVersion: 2
-        x: 495
-        y: 1017
-        width: 522
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dfd6a2a723becf1408acb6fe7d500dd0
-      internalID: 1399562484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: options2_3
-      rect:
-        serializedVersion: 2
-        x: 996
-        y: 1009
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83382f0b3ced6404a9df9c19b0e8bc85
-      internalID: -1383261686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: options2_4
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 984
-        width: 4
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6505fda76840b0d4cbc42cb4a780c375
-      internalID: -451400690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: options2_5
-      rect:
-        serializedVersion: 2
-        x: 996
-        y: 963
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97c5edbaa6716dd489085bc46f481ccf
-      internalID: -1747867223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -237,13 +132,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      options2_0: -227544321
-      options2_1: -1124051319
-      options2_2: 1399562484
-      options2_3: -1383261686
-      options2_4: -451400690
-      options2_5: -1747867223
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
